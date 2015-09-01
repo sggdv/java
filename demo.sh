@@ -1,0 +1,1 @@
+export CLASSPATH=$CLASSPATH:/home/kim/gitspace/java/lib/dom4j-1.6.1.jar:/home/kim/gitspace/java/lib/jaxen-1.1.6.jar
