@@ -8,7 +8,8 @@ import org.dom4j.Node;
 /**
 * 展示dom4j的用法
 * <a href="http://www.dom4j.org/">dom4j官网</a>
-* @version dom4j-1.6.1
+* @version dom4j-1.6.1.jar 
+* 	jaxen-1.1.6.jar
 */
 public class Dom4jDemo {
 
